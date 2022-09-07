@@ -1,0 +1,10 @@
+15:15:37.406 [main] TRACE tentang.tech.javalogging.LevelTest - trace
+15:15:37.409 [main] DEBUG tentang.tech.javalogging.LevelTest - debug
+15:15:37.409 [main] INFO  tentang.tech.javalogging.LevelTest - info
+15:15:37.410 [main] WARN  tentang.tech.javalogging.LevelTest - warn
+15:15:37.410 [main] ERROR tentang.tech.javalogging.LevelTest - error
+2022-08-10 15:27:36.777 [main] TRACE tentang.tech.javalogging.LevelTest - [] - trace
+2022-08-10 15:27:36.778 [main] DEBUG tentang.tech.javalogging.LevelTest - [] - debug
+2022-08-10 15:27:36.779 [main] INFO  tentang.tech.javalogging.LevelTest - [] - info
+2022-08-10 15:27:36.779 [main] WARN  tentang.tech.javalogging.LevelTest - [] - warn
+2022-08-10 15:27:36.779 [main] ERROR tentang.tech.javalogging.LevelTest - [] - error
